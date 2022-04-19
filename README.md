@@ -12,3 +12,5 @@ https://nmsiegel1.github.io/run-buddy/
 
 ## Contribution
 * Made with ❤️ by Nina
+
+### ©️2019 Run Buddy, Inc 
