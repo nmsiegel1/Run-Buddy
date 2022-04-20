@@ -334,8 +334,28 @@ section {
 }
 
 /* media query for tablets and smaller */
+/* style for screens 768px and smaller */
 @media screen and (max-width: 768px) {
-   
+   section {
+       padding: 30px 15px;
+   }
+
+   .step-info {
+       flex: 2 100%;
+       text-align: center;
+       justify-content: center;
+    }
+
+    .step-img {
+        flex: 0 32%;
+        margin-right: 0;
+        margin-top: 15%;
+        margin-bottom: 15px;
+    }
+
+    .step-text {
+        flex: 100%;
+    }
 }
 
 /* media query for mobile phones and smaller */
